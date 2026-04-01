@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply p-2 border rounded;
+}
+
+.btn {
+  @apply w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600;
+}
+
+.card {
+  @apply mt-4 p-4 bg-green-200 rounded;
+}

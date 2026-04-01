@@ -1,0 +1,50 @@
+# =========================
+# 🚀 FRONTEND (React / Vite)
+# =========================
+node_modules/
+dist/
+build/
+.vite/
+*.log
+
+# Env files (IMPORTANT)
+.env
+.env.*
+
+# =========================
+# ☕ BACKEND (Spring Boot)
+# =========================
+target/
+*.class
+*.jar
+*.war
+
+# Keep wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# 🧠 IDEs
+# =========================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# 🧾 OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🛠 Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# ⚙️ Optional (configs)
+# =========================
+application.properties
+application.yml
