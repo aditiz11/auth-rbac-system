@@ -19,16 +19,17 @@ backend/ # Spring Boot app
 ## ⚙️ Run Locally
 
 ### Backend
-
+```
 cd backend
 mvn spring-boot:run
-
+```
 
 ### Frontend
+```
 cd frontend
 npm install
 npm run dev
-
+```
 
 ## 🔑 API
 - POST `/auth/register`
