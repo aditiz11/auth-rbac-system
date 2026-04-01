@@ -14,8 +14,10 @@ Full-stack authentication system using **JWT + Role-Based Access Control**.
 - Backend: Spring Boot, Spring Security, JWT
 
 ##  Structure
+```
 frontend/ # React app
 backend/ # Spring Boot app
+```
 
 ##  Run Locally
 
